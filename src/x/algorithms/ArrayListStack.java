@@ -41,4 +41,6 @@ public class ArrayListStack {
 	{
 		return list.isEmpty();
 	}
+	
+	// End of class
 }
